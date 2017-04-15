@@ -13,10 +13,6 @@
   "resolutions": {
     "angular": "1.6.4"
   },
-  "main": [
-    "./dist/scripts/video.js",
-    "./dist/scripts/video.css"
-  ],
   "ignore": [
     "**/.*",
     "node_modules",
@@ -24,14 +20,7 @@
     "package.json",
     "gulpfile.js",
     "src",
-    "gulp",
-    "e2e",
-    "templates-desen",
     "karma.conf.js",
-    "protractor.conf.js",
-    "banco-dados",
-    "codigo-fonte",
-    "docker",
-    "documentos"
+    "protractor.conf.js"
   ]
 }
