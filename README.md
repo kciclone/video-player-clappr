@@ -24,7 +24,7 @@ Adicione o módulo nas dependências:
 angular.module('myApp', ['video.player.clappr', ...])
 ```
 
-##Parameters
+## Parameters
 ```json
     {   
         "src": "http://your-video.com.br/video.mp4",
