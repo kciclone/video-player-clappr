@@ -1,7 +1,7 @@
 {
   "name": "video-player-clappr",
   "version": "0.0.1",
-  "main": "./dist/video.js",
+  "main": "./dist/video.player.clappr.js",
   "dependencies": {
     "angular": "1.6.4",
     "clappr": "0.2.65"
@@ -14,9 +14,10 @@
     "angular": "1.6.4"
   },
    "keywords": [
-    "motion",
-    "physics",
-    "particles"
+    "clappr",
+    "video",
+    "player",
+    "mp4"
   ],
   "authors": [
     "Diego Samuel Alves <diego.samuel.alves@gmail.com>"

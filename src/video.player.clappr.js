@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    angular.module('video', []).directive('player', player);
+    angular.module('video.player.clappr', []).directive('player', player);
 
     function player() {
         return {
