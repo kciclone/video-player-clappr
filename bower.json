@@ -1,5 +1,5 @@
 {
-  "name": "video-player",
+  "name": "video-player-clapper",
   "version": "0.0.1",
   "main": "./dist/video.js",
   "dependencies": {
@@ -13,6 +13,14 @@
   "resolutions": {
     "angular": "1.6.4"
   },
+   "keywords": [
+    "motion",
+    "physics",
+    "particles"
+  ],
+  "authors": [
+    "Diego Samuel Alves <diego.samuel.alves@gmail.com>"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
