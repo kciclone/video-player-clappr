@@ -1,7 +1,7 @@
 {
   "name": "video-player",
   "version": "0.0.1",
-  "description": "Video Player Clapper",
+  "description": "Video Player Clappr",
   "private": true,
   "scripts": {},
   "devDependencies": {
@@ -33,6 +33,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dsamuel32/video-player-clapper.git"
+    "url": "https://github.com/dsamuel32/video-player-clappr.git"
   }
 }

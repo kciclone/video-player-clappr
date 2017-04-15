@@ -1,5 +1,5 @@
 {
-  "name": "video-player-clapper",
+  "name": "video-player-clappr",
   "version": "0.0.1",
   "main": "./dist/video.js",
   "dependencies": {
