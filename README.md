@@ -4,9 +4,8 @@ Angular directive to play videos MP4 format.
 
 ## Install
 
-Manual: download latest from here
-Bower:
-bower install video-player-clappr --save
+- Manual: download latest from here
+- Bower:bower install video-player-clappr --save
 
 Add script in application
 
